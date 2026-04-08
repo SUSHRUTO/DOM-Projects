@@ -23,7 +23,7 @@ These projects helped me strengthen my understanding of core frontend concepts a
 * Demonstrates real-time DOM updates
 * Handles user input efficiently
 
-📁 Folder: `Project-2-dynamic_list_creator`
+📁 Folder: `2-dynamic_list_creator`
 
 ---
 
@@ -33,7 +33,7 @@ These projects helped me strengthen my understanding of core frontend concepts a
 * Displays color codes dynamically
 * Useful for UI/UX inspiration
 
-📁 Folder: `Project-3-color_palette_generator`
+📁 Folder: `3-color_palette_generator`
 
 ---
 
